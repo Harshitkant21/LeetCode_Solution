@@ -1,3 +1,4 @@
+
 class Solution {
     public boolean isPalindrome(int x) {
         // Store the original number in a temporary variable
