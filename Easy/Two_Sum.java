@@ -1,4 +1,5 @@
-There are two methods to solve the problem 
+There are two methods to solve the problem in java
+
   1:- By using HashMap 
 
 class Solution {
